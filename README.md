@@ -54,7 +54,7 @@ This project uses hotel booking, search, and traffic datasets.
 │   ├── create_insert_tables.sql     # DDL scripts for schema creation
 │
 ├── powerbi/
-│   ├── BookingHotel.pbix         # Power BI dashboard file
+│   ├── BookingHotel.pbix            # Power BI dashboard file
 │
 ├── screenshots/
 │   ├── booking-hotel-dashboard.png  # Screenshot of dashboard in power BI
